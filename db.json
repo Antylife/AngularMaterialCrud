@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "wenas",
+      "date": "2022-05-01T04:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 120,
+      "comment": "kulikitakati",
+      "date": "2022-05-01T04:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
